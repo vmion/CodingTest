@@ -15,9 +15,9 @@ int main()
     
     cout << "--------------------" << endl;
     cout << "18108번" << endl;
-    int y;
-    cin >> y;
-    cout << y - 543 << endl;    
+    int year;
+    cin >> year;
+    cout << year - 543 << endl;
     
     cout << "--------------------" << endl;
     cout << "3003번" << endl;
