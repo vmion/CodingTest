@@ -1,0 +1,4 @@
+﻿  5day.cpp
+Z:\github\CodingTest\5day\5day\5day.cpp(47,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+Z:\github\CodingTest\5day\5day\5day.cpp(58,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  5day.vcxproj -> Z:\github\CodingTest\5day\Debug\5day.exe
